@@ -1,2 +1,7 @@
-# Intro-Computational-Practices
-mirror resources for Introdution to Computational Practices at Creative Coding Institute, UAL.
+# Intro-Computational-Practices 2021
+
+Mirrored esources for Introdution to Computational Practices 2021 at UAL Creative Computing Institute.
+
+Clik the links below to access the Wiki:
+
+* [References and Tools]()
