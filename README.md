@@ -4,4 +4,4 @@ Mirrored esources for Introdution to Computational Practices 2021 at UAL Creativ
 
 Clik the links below to access the Wiki:
 
-* [References and Tools]()
+* [References and Tools](https://github.com/JoBCB/Intro-Computational-Practices/wiki)
